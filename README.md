@@ -1,7 +1,7 @@
 # react-quiz
 **Welcome to the react-quiz wiki!**
 
-Here this project is a React Quiz Test, that was build by react.js
+Here this project is a React Quiz Test, that was built by react.js
 
 My main goal of creating this project is to practice my react skills such as useReducer hook and so on
 
